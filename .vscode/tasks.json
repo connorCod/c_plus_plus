@@ -15,7 +15,7 @@
                 "-Wsign-conversion",
                 "${file}",
                 "-o",
-                "${fileDirname}/build/${fileBasenameNoExtension}"
+                "${workspaceFolder}/build/${fileBasenameNoExtension}"
             ],
             "options": {
                 "cwd": "${fileDirname}"
