@@ -1,0 +1,6 @@
+# Compiled output
+build/
+*.dSYM
+
+# macOS
+.DS_Store
