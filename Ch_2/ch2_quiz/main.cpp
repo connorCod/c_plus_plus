@@ -4,7 +4,6 @@
 int main()
 {
     int first_number{ readNumber() };
-
     int second_number{ readNumber() };
 
     writeAnswer(first_number + second_number);
